@@ -8,6 +8,7 @@ The aim of this project was to create a vehicle management system that allows us
 You will need to have the following installed to run this project:
 - Visual Studio
 - .NET Core SDK
+- Node.js
 
 ## Planning
 I planned this project to be developed in two phases. Phase 1 involved development of the user interface where I made sure that there were reusable components. Phase 2 involved 
